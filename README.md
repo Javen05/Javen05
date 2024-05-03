@@ -1,3 +1,5 @@
+## Javen Lai
+
 ## About Me
 Hello! I'm a Student specializing in Big Data & Analytics at Temasek Polytechnic with expertise in Python3 and MySQL for Data Warehousing, Data Analytics and Storytelling, Machine Learning, and some Full-Stack Development experience.
 
