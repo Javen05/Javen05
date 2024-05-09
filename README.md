@@ -17,3 +17,5 @@ Hey there! 👋 I'm a Student specializing in Big Data & Analytics at Temasek Po
 - PowerBi
 - Amazon Web Services (AWS)
 - React
+- VS Code
+- GitHub
