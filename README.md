@@ -10,13 +10,15 @@ Hey there! 👋 I'm a Student specializing in Big Data & Analytics at Temasek Po
 
 ## Technologies & Tools
 - Python3 with Jupyter Notebook
+- Sci-kit library
+- Tableau
 - MySQL
 - Alteryx
 - Knime
-- Tableau
 - PowerBi
 - Amazon Web Services (AWS)
 - React
 - VS Code
 - GitHub
 - UiPath
+- SAS Enterprise Miner
