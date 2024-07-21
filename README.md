@@ -12,13 +12,14 @@ Hey there! 👋 I'm a Student specializing in Big Data & Analytics at Temasek Po
 - Python3 with Jupyter Notebook
 - Data Science Python libraries like: Pandas, NumPy, Sci-kit
 - Tableau
+- Power BI
 - MySQL
 - Alteryx
 - Knime
-- PowerBi
 - Amazon Web Services (AWS)
-- React
+- React JS
 - VS Code
 - GitHub
 - UiPath
 - SAS Enterprise Miner
+- Open Government Products (OGP)
