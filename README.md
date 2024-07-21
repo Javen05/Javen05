@@ -10,7 +10,7 @@ Hey there! 👋 I'm a Student specializing in Big Data & Analytics at Temasek Po
 
 ## Technologies & Tools
 - Python3 with Jupyter Notebook
-- Sci-kit library
+- Data Science Python libraries like: Pandas, NumPy, Sci-kit
 - Tableau
 - MySQL
 - Alteryx
